@@ -1,0 +1,6 @@
+framework module Pods_CompanyDiscountedCashFlowValue {
+  umbrella header "Pods-CompanyDiscountedCashFlowValue-umbrella.h"
+
+  export *
+  module * { export * }
+}
